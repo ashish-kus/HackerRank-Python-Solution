@@ -1,0 +1,10 @@
+import numpy as np
+n, m = map(int, input().split())
+first = np.array([input().split() for _ in range(n)], dtype='int')
+second = np.array([input().split() for _ in range(n)], dtype='int')
+print(first + second)
+print(first - second)
+print(first * second)
+print(first // second)
+print(first % second)
+print(first ** second)
