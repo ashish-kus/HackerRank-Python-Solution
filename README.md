@@ -6,55 +6,55 @@ Each directory corresponds to a different category of problems. The solutions pr
 
 ## Directory Structure
 
-1. **01-Introduction**
+1. **[01-Introduction](01-Introduction)**
    - Contains solutions related to introductory Python concepts.
 
-2. **02-Basic-Data-Type**
+2. **[02-Basic-Data-Type](02-Basic-Data-Type)**
    - Includes solutions for problems related to basic data types in Python.
 
-3. **03-Strings**
+3. **[03-Strings](03-Strings)**
    - Solutions for challenges involving string manipulations.
 
-4. **04-set**
+4. **[04-set](04-set)**
    - Code solutions for problems related to Python sets.
 
-5. **05-math**
+5. **[05-math](05-math)**
    - Solutions covering mathematical problems.
 
-6. **06-itertools**
+6. **[06-itertools](06-itertools)**
    - Solutions using the `itertools` module in Python.
 
-7. **07-Collection**
+7. **[07-Collection](07-Collection)**
    - Problems and solutions related to Python collections.
 
-8. **08-DateandTime**
+8. **[08-DateandTime](08-DateandTime)**
    - Code solutions for date and time manipulation challenges.
 
-9. **09-ErrorAndExceptions**
+9. **[09-ErrorAndExceptions](09-ErrorAndExceptions)**
    - Solutions dealing with error handling and exceptions.
 
-10. **10-classes**
+10. **[10-classes](10-classes)**
     - Challenges involving the use of Python classes and object-oriented programming.
 
-11. **11-Builtins**
+11. **[11-Builtins](11-Builtins)**
     - Solutions using built-in functions and modules in Python.
 
-12. **12-pythonFunctions**
+12. **[12-pythonFunctions](12-pythonFunctions)**
     - Code solutions for problems related to Python functions.
 
-13. **13-RegexandParsing.py**
+13. **[13-RegexandParsing.py](13-RegexandParsing.py)**
     - Challenges related to regular expressions and parsing.
 
-14. **14-XML**
+14. **[14-XML](14-XML)**
     - XML parsing challenges and solutions.
 
-15. **15-Closer-Discloser**
+15. **[15-Closer-Discloser](15-Closer-Discloser)**
     - Directory purpose unclear. Please clarify.
 
-16. **16-Numpy**
+16. **[16-Numpy](16-Numpy)**
     - Solutions for problems involving the NumPy library in Python.
 
-17. **17-Dbugging**
+17. **[17-Dbugging](17-Dbugging)**
     - Solutions demonstrating debugging techniques in Python.
 
 ## Usage
