@@ -1,4 +1,5 @@
 # import counter class from collections module
+# oooooooooooooooooo
 # from collections import Counter
 # Creating a Counter class object using list as an iterable data container
 # a = [12, 3, 4, 3, 5, 11, 12, 6, 7]
@@ -9,3 +10,11 @@
     # print(i)
 # for i in x.elements():
     # print(i)
+
+
+#     from itertools import groupby
+# string=input()
+# list1=[]
+# for (key, group) in groupby(string):
+#   list1.append((len(list(group)),int(key)))
+# print(*list1)
